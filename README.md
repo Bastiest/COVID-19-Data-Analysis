@@ -28,8 +28,8 @@ IBM Data Analyst Specialization Capstone
 - Data Cleaning
    -  Remove unnecessary data
 - Data Visulization
-   -  Used different charts to draw some insights
-   -  Used Tableau for more awesome Visualization
+   -  Using a different charts to draw some insights
+   -  Use Tableau for more awesome Visualization
 
 ## Results
 ![image](https://user-images.githubusercontent.com/78896519/136227745-a783f23e-2c6e-40ee-9be8-fe44df02c98b.png)
